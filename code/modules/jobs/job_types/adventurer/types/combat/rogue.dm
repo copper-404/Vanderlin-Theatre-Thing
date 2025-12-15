@@ -21,7 +21,7 @@
 		H.adjust_skillrank(/datum/skill/misc/athletics, 3, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/swimming, 2, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/climbing, 5, TRUE)
-		H.adjust_skillrank(/datum/skill/misc/reading, pick(0,1,1), TRUE)
+		H.adjust_skillrank(/datum/skill/misc/reading, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/sewing, 1, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/sneaking, 5, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/stealing, 5, TRUE)
