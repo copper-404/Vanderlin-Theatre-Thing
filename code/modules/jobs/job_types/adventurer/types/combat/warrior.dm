@@ -23,7 +23,7 @@
 	H.adjust_skillrank(/datum/skill/misc/swimming, 2, TRUE)
 	H.adjust_skillrank(/datum/skill/misc/climbing, 2, TRUE)
 	H.adjust_skillrank(/datum/skill/misc/riding, pick(1,1,2), TRUE)
-	H.adjust_skillrank(/datum/skill/misc/reading, pick(0,1,1), TRUE)
+	H.adjust_skillrank(/datum/skill/misc/reading, 1, TRUE)
 
 //UNIVERSAL GEAR
 	shoes = pick(/obj/item/clothing/shoes/boots, /obj/item/clothing/shoes/boots/furlinedboots) // no armored boots for common adventurers.
