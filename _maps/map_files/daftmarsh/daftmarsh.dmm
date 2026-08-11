@@ -6025,7 +6025,6 @@
 /obj/structure/flora/tree/burnt,
 /turf/open/floor/dirt,
 /area/outdoors/basin)
-<<<<<<< HEAD
 "eGA" = (
 /obj/structure/closet/crate/drawer,
 /obj/item/clothing/face/spectacles/monocle,
@@ -6034,14 +6033,12 @@
 /obj/machinery/light/fueled/wallfire/candle,
 /turf/open/floor/ruinedwood/chevron,
 /area/indoors/town/steward)
-=======
 "eGG" = (
 /obj/structure/window/openclose{
 	dir = 1
 	},
 /turf/open/floor/wood/nosmooth,
 /area/indoors/town/keep/guest/guest2)
->>>>>>> Vanderlin-Main/main
 "eHC" = (
 /obj/structure/table/wood/large/corner_new{
 	dir = 8
@@ -6350,16 +6347,10 @@
 	pixel_y = 3;
 	pixel_x = 6
 	},
-<<<<<<< HEAD
-/turf/open/floor/cobblerock,
 /area/under/town/basement)
-=======
-/turf/open/floor/carpet/purple,
-/area/indoors/town/steward)
 "eTc" = (
 /turf/closed/wall/mineral/decostone/center,
 /area/indoors/town/keep/guest/guest3)
->>>>>>> Vanderlin-Main/main
 "eUa" = (
 /obj/structure/rack/shelf/biggest,
 /turf/open/floor/twig,
@@ -20008,23 +19999,9 @@
 	},
 /turf/open/floor/blocks,
 /area/indoors/town/keep)
-"qyJ" = (
-<<<<<<< HEAD
-/obj/structure/fluff/railing/border{
-	dir = 1
-	},
-/turf/open/floor/rooftop{
-	dir = 1
-	},
-/area/outdoors/town/roofs)
-=======
-/obj/structure/table/wood/large/corner,
-/turf/open/floor/carpet/red,
-/area/indoors/town/garrison)
 "qyK" = (
 /turf/open/floor/blocks/newstone/alt,
 /area/indoors/town/keep/guest/guest2)
->>>>>>> Vanderlin-Main/main
 "qzn" = (
 /obj/machinery/light/fueled/wallfire/candle/blue/r,
 /turf/open/floor/greenstone,
@@ -22611,12 +22588,6 @@
 /obj/effect/mapping_helpers/access/locker,
 /turf/open/floor/church,
 /area/indoors/town/church/chapel)
-<<<<<<< HEAD
-"sPE" = (
-/obj/machinery/light/fueled/torchholder/hotspring/standing,
-/turf/open/floor/cobble,
-/area/under/town/basement)
-=======
 "sPx" = (
 /obj/structure/closet/crate/crafted_closet,
 /obj/machinery/light/fueled/wallfire/candle{
@@ -22626,7 +22597,10 @@
 /obj/effect/mapping_helpers/access/keyset/manor/guest2,
 /turf/open/floor/blocks/newstone/alt,
 /area/indoors/town/keep/guest/guest2)
->>>>>>> Vanderlin-Main/main
+"sPE" = (
+/obj/machinery/light/fueled/torchholder/hotspring/standing,
+/turf/open/floor/cobble,
+/area/under/town/basement)
 "sPQ" = (
 /obj/structure/table/wood/plain_alt,
 /turf/open/floor/blocks,
@@ -27629,9 +27603,6 @@
 /obj/structure/bars{
 	icon_state = "barsbent";
 	layer = 2.81
-	},
-/obj/item/paper{
-	info = "Remember, Gatemaster - insult not a noble by sending them through the side entrance, for the side entrance is for SERVANTS."
 	},
 /turf/open/floor/blocks,
 /area/indoors/town/keep/gate)
@@ -199487,7 +199458,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 xrO
 wLw
 wLw
@@ -199689,7 +199660,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 wLw
 wLw
 wLw
@@ -199891,7 +199862,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 wLw
 wLw
 wLw
@@ -200093,7 +200064,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 wLw
 wLw
 wLw
@@ -200497,7 +200468,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 baK
 ekw
 myy
@@ -200699,7 +200670,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 ekw
 jJI
 bDy
@@ -200901,7 +200872,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 ekw
 oEy
 efS
@@ -201103,7 +201074,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 ekw
 jJI
 efS
@@ -201305,7 +201276,7 @@ vFt
 vFt
 vFt
 vFt
-qyJ
+oUv
 baK
 ekw
 myy
