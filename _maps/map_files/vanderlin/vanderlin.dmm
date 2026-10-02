@@ -10560,7 +10560,7 @@
 /obj/machinery/light/fueledstreet/orange{
 	pixel_x = -16
 	},
-/turf/open/floor/cobblerock,
+/turf/open/floor/dirt/road,
 /area/outdoors/town/keep)
 "erX" = (
 /obj/machinery/light/fueled/torchholder{
@@ -13940,7 +13940,7 @@
 	pixel_y = -16;
 	name = "garrison bell"
 	},
-/turf/open/floor/ruinedwood/spiral,
+/turf/open/floor/ruinedwood/darker,
 /area/outdoors/town/roofs)
 "fJD" = (
 /obj/structure/flora/newtree,
@@ -37683,7 +37683,7 @@
 /area/indoors/town/steward)
 "peH" = (
 /obj/item/weapon/mace/church,
-/turf/open/floor/ruinedwood/spiral,
+/turf/open/floor/ruinedwood,
 /area/outdoors/town/roofs)
 "peJ" = (
 /obj/structure/fluff/railing/wood,
@@ -48771,11 +48771,9 @@
 /turf/open/floor/cobble/alt,
 /area/indoors/town/vault)
 "tsX" = (
-/obj/structure/door/window,
-/obj/effect/mapping_helpers/access/keyset/garrison/general,
-/obj/effect/mapping_helpers/access/locker,
-/turf/open/floor/blocks,
-/area/indoors/town/garrison)
+/obj/machinery/light/fueled/firebowl/standing,
+/turf/open/floor/ruinedwood/darker,
+/area/outdoors/town/roofs)
 "tsY" = (
 /obj/structure/fluff/railing/border{
 	dir = 1
@@ -50611,9 +50609,7 @@
 /turf/open/floor/blocks,
 /area/indoors/dungeon)
 "ugm" = (
-/obj/structure/fluff/walldeco/painting/queen{
-	pixel_y = 32
-	},
+/obj/structure/fake_machine/scomm,
 /turf/open/floor/ruinedwood/darker,
 /area/indoors/town/merc_guild)
 "ugJ" = (
@@ -55867,9 +55863,8 @@
 /turf/open/floor/church,
 /area/outdoors/town/roofs)
 "weP" = (
-/obj/effect/decal/cleanable/debris/stone,
-/turf/open/floor/cobblerock,
-/area/outdoors/town/keep)
+/turf/open/floor/ruinedwood/darker,
+/area/outdoors/town/roofs)
 "weQ" = (
 /obj/structure/flora/grass,
 /obj/structure/wild_plant/nospread/poppy{
@@ -56809,7 +56804,7 @@
 /area/indoors/town/keep/basement/royalknight)
 "wxr" = (
 /obj/machinery/light/fueledstreet/orange/wall,
-/turf/open/floor/cobblerock,
+/turf/open/floor/dirt/road,
 /area/outdoors/town/keep)
 "wxs" = (
 /obj/effect/landmark/hammer/dev_text{
@@ -120902,7 +120897,7 @@ roj
 kkr
 eqL
 sSi
-xTl
+fep
 xTl
 xBo
 fmZ
@@ -121106,7 +121101,7 @@ tQT
 sSi
 xTl
 xTl
-xTl
+fep
 viN
 pXi
 xKB
@@ -121308,8 +121303,8 @@ kAY
 eqL
 xTl
 fep
+fep
 xTl
-sSi
 eqL
 oDY
 sSi
@@ -121511,8 +121506,8 @@ wLF
 xTl
 fep
 xTl
-sSi
-wLF
+xTl
+fep
 xTl
 xTl
 dcT
@@ -121710,10 +121705,10 @@ qpP
 pSx
 agS
 sSi
+fep
 xTl
 xTl
-xTl
-sSi
+fep
 xTl
 xTl
 red
@@ -121914,8 +121909,8 @@ qjR
 gYv
 oWt
 xTl
-eqL
-qjR
+fep
+xTl
 xTl
 fvM
 rCT
@@ -122112,12 +122107,12 @@ uyA
 uyA
 qpP
 cxn
-fep
-fep
-fep
-fep
+xTl
 fep
 vZK
+xTl
+xTl
+fep
 vZK
 sSi
 qjR
@@ -122320,7 +122315,7 @@ vZK
 lXE
 fep
 fep
-vZK
+xTl
 kYE
 jez
 hHM
@@ -122516,14 +122511,14 @@ nXX
 nXX
 qpP
 mfR
-weP
-fep
+npq
+xTl
 fep
 fep
 vZK
 vZK
 fep
-fep
+xTl
 xBo
 hHM
 hHM
@@ -122927,7 +122922,7 @@ sSi
 oDY
 fep
 fep
-vZK
+xTl
 xKB
 hHM
 rFp
@@ -123127,7 +123122,7 @@ eqL
 saH
 sSi
 wLF
-vZK
+xTl
 fep
 vZK
 pXi
@@ -123330,7 +123325,7 @@ rCT
 eqL
 sSi
 vZK
-fep
+xTl
 vZK
 xeK
 hHM
@@ -123531,7 +123526,7 @@ sSi
 sSi
 tBw
 fvM
-vZK
+fep
 fep
 vZK
 kYE
@@ -123733,7 +123728,7 @@ sSi
 eqL
 sSi
 eqL
-vZK
+xTl
 fep
 fep
 qjR
@@ -124139,7 +124134,7 @@ sSi
 qjR
 fep
 fep
-fep
+xTl
 wML
 ojO
 ojO
@@ -124331,17 +124326,17 @@ anj
 kNd
 qPo
 fep
-fep
+xTl
 erO
 fep
 vZK
 bnf
 vZK
 fep
-fep
-fep
 vZK
 fep
+vZK
+xTl
 axW
 cOB
 cKM
@@ -124740,9 +124735,9 @@ nIP
 fep
 fep
 nIP
+xTl
 vZK
-vZK
-vZK
+xTl
 fep
 vZK
 fep
@@ -125551,9 +125546,9 @@ dBZ
 oho
 kso
 agS
+xTl
 fep
-fep
-fep
+xTl
 dmv
 nuA
 rHW
@@ -125956,7 +125951,7 @@ xTl
 khg
 xTl
 vZK
-fep
+xTl
 syc
 mGE
 uiL
@@ -164035,7 +164030,7 @@ raJ
 rzg
 raJ
 raJ
-tsX
+jCg
 rzg
 raJ
 wbI
@@ -205444,9 +205439,9 @@ tEH
 tEH
 xAw
 lIl
-lOi
-ylx
-cMx
+weP
+xAw
+xAw
 lIl
 xAw
 xAw
@@ -205645,11 +205640,11 @@ biy
 tEH
 tEH
 xAw
-vBL
-sOX
-lwY
-lwY
-vBL
+xAw
+tsX
+weP
+weP
+weP
 xAw
 xAw
 tEH
@@ -205847,11 +205842,11 @@ biy
 tEH
 tEH
 xAw
-aQA
-lwY
+weP
+xAw
 fJw
-lwY
-aQA
+weP
+xAw
 xAw
 xAw
 tEH
@@ -206049,11 +206044,11 @@ biy
 tEH
 tEH
 xAw
-vBL
-lwY
-lwY
-lwY
-vBL
+xAw
+weP
+weP
+weP
+weP
 xAw
 xAw
 tEH
@@ -206251,11 +206246,11 @@ tEH
 tEH
 tEH
 xAw
-aQA
-sOX
-lwY
+weP
+tsX
+weP
 peH
-aQA
+weP
 xAw
 xAw
 xAw
@@ -206454,9 +206449,9 @@ tEH
 tEH
 xAw
 lIl
-lOi
-mrY
-cMx
+weP
+xAw
+xAw
 lIl
 xAw
 xAw
@@ -206661,7 +206656,7 @@ xAw
 xAw
 xAw
 xAw
-fZu
+xAw
 xAw
 nTy
 nTy
@@ -206863,7 +206858,7 @@ xAw
 xAw
 xAw
 xAw
-xAw
+fZu
 xAw
 nTy
 nTy
@@ -245844,11 +245839,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
@@ -246046,11 +246041,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
@@ -246248,11 +246243,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
@@ -246450,11 +246445,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
@@ -246652,11 +246647,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
@@ -246854,11 +246849,11 @@ nRI
 nRI
 nRI
 nRI
-nRI
-nRI
-nRI
-nRI
-nRI
+lkW
+lkW
+kmE
+nTy
+nTy
 nRI
 nRI
 nRI
